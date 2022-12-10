@@ -7,106 +7,65 @@
             <li><a href="#hola">acerca de </a></li>
             <li> cv</li>
             <li> conctacto</li>
-            <img src="" alt="logo" srcset="" width="16%">
-        <p id="p">descarga cv</p>
+            <img src="../assets/yo.jpeg" alt="yop" srcset="" width="16%">
+            <p id="p">descarga cv</p>
 
 
         </nav>
         <section class="img">
-           
+
         </section>
+        <br>
+        <p></p>
         <section class="info">
             <h1><b>Robinson truque valencia</b> </h1>
-            <h2>aprendiz de adsi</h2>
-            <LI><b>telefono</b> 3016038492</LI>
-            <li><b>emaill</b> rtrque6@misena.edu.co</li>
-            <li><b>direccion</b> popayan/cauca</li>
-   
+            <h2>Aprendiz de adsi</h2>
+            <li><b>Fecha nacimiento</b>febrero 11/2004</li>
+            <li><b>lugar nacimiento</b>popayan/cauca</li>
+            <LI><b>Telefono</b> 3016038492</LI>
+            <li><b>Genero</b>Masculino</li>
+            <li><b>Emaill</b> rtruque6@misena.edu.co</li>
+            <li><b>Direccion</b> Popayan/Cauca</li>
+
 
         </section>
         <hr>
         <section id="hola">
             <div id="robin">
-                <h1> acerca de</h1>
-                <p>Párrafo. Haz clic aquí para agregar tu propio texto y editarlo. Es fácil. Haz clic en "Editar texto"
-                    o doble clic aquí para agregar tu contenido y cambiar la fuente. En este espacio puedes contar tu
-                    historia y permitir que los usuarios sepan más sobre ti.
+            <h1> Acerca de</h1>
 
-                </p>
+
+                <p>soy Aprendiz de CTPI  de el programaa ADSI  </p>
             </div>
-             <hr>
+            <hr>
             <h1>HABILIDADES CLAVE </h1>
-
-
             <div class="habi">
-                <li>manejo bien los programas como html, js,css,python,java,vue
-
-                </li>
-                <li>
-
-                </li>
-                <li>
-                </li>
-                <li>
-
-                </li>
+            <li>Manejo bien los programas como html, js,css,python,java,vue</li>
             </div>
             <hr>
             <h1>VIDA LABORAL</h1>
 
             <div>
-
-
-                <li>Ninguna por el momento
-
-                </li>
-                <!-- <li>Párrafo. Haz clic aquí para agregar tu propio texto y editar. Aquí puedes contar tu historia y
-                    permitir que tus usuarios sepan más sobre ti.
-
-                </li>
-                <li>Párrafo. Haz clic aquí para agregar tu propio texto y editar. Aquí puedes contar tu historia y
-                    permitir que tus usuarios sepan más sobre ti.
-
-                </li>
-                <li>Párrafo. Haz clic aquí para agregar tu propio texto y editar. Aquí puedes contar tu historia y
-                    permitir que tus usuarios sepan más sobre ti.
-
-                </li> -->
-            </div>
-
-            <hr>
-            <div>
-                
-                <p><b>2022-2022</b></p>
-                <p><b>creador de sitios web</b></p>
-                <p>entrenamiento de algoritmia fabrica </p>
-                <p>popayan/cauca</p>
+                <li>Ninguna por el momento</li>
+          
+            <p><b>2022-actual</b></p>
+            <p><b>creador de sitios web</b></p>
+            <p>Tecnologo ADSI</p>
+            <p>Popayan/Cauca</p>
                 <hr>
-                <p><b>2022-actual</b></p>
-                <p><b>creador de sitios web</b></p>
-                <p>tecnologo adsi</p>
-                <p>popayan/cauca</p>
-<hr>
-
-                <p><b>2022-2023</b></p>
-                <p><b>creador de sitios web</b></p>
-                <p>tecnologo adsi</p>
-                <p>popayan/cauca</p>
-<hr>
-
-
-                <p><b>2022-2023</b></p>
-                <p><b>creador de sitios web</b></p>
-                <p>tecnologo adsi</p>
-                <p>popayan/cauca</p>
+            
+            <p><b>2022-2023</b></p>
+            <p><b>Creador de sitios web</b></p>
+            <p>Tecnologo adsi</p>
+            <p>Popayan/Cauca</p>
             </div>
             <hr>
             <div>
 
                 <p><b>2022-2023</b></p>
-                <p><b>sena</b></p>
-                <p>tecnologo adsi</p>
-                <p>popayan/cauca</p>
+                <p><b>Sena</b></p>
+                <p>Tecnologo adsi</p>
+                <p>Popayan/Cauca</p>
 
             </div>
 
@@ -115,13 +74,13 @@
             <div>
 
                 <li>
-                    aprender los direntes lengfuajes y tener la oportunidad de participar en un bootcamp
+                    Aprender los direntes lenguajes y tener la oportunidad de participar en un bootcamp
                 </li>
-                <li>megusta la progrmacion y me siemto bien tanto backen como frontend
-    
+                <li>Megusta la progrmacion y me siemto bien tanto backen como frontend
+
                 </li>
-                <li>he estado en difrentes complementarios de larabel, node js 
-    
+                <li>He estado en difrentes complementarios de larabel, node js
+
                 </li>
 
 
@@ -132,10 +91,10 @@
             <div class="conctacto">
 
 
-                <LI><b>telefono</b> 3016038492</LI>
-                <li><b>emaill</b> rtrque6@misena.edu.co</li>
-                <li><b>direccion</b> popayan/cauca</li>
-            </div> 
+                <LI><b>Telefono</b> 3016038492</LI>
+                <li><b>Emaill</b> rtrque6@misena.edu.co</li>
+                <li><b>Direccion</b> Popayan/Cauca</li>
+            </div>
 
         </section>
     </main>
@@ -156,22 +115,22 @@ export default {
     list-style: none;
     display: flex;
     justify-content: space-between;
-    border: solid 1px;
-    
+    border: solid 2px;
+
 }
 
 .img {
 
     display: flex;
     justify-content: end;
-    border: solid 1px;
+    border: solid 2px;
 
 }
 
 .info {
     list-style: none;
 
-    border: solid 1px;
+    border: solid 2px;
 
 }
 
@@ -189,16 +148,16 @@ h1 {
 #acerca {
 
     width: 85vh;
-    border: solid 1px;
+    border: solid 2px;
 }
 
 .conctacto {
     list-style: none;
 
 }
+
 a:hover {
     color: #07d544;
     cursor: pointer;
-  }
- 
+}
 </style>
