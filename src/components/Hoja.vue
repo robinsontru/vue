@@ -4,7 +4,7 @@
         <nav class="menu">
             <li>Curriculum Vitae</li>
             <!-- <li> <a href="robin">acerca de</a> </li> -->
-            <li><a href="#hola">acerca de </a></li>
+            <li><a href="@/components/Acerca.vue">acerca de </a></li>
             <li> cv</li>
             <li> conctacto</li>
             <img src="../assets/yo.jpeg" alt="yop" srcset="" width="16%">

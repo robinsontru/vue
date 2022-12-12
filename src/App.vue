@@ -5,6 +5,8 @@
     <router-link to="/Cita">Cita</router-link>|
     <router-link to="/Agenda">Agenda</router-link>|
     <router-link to="/Hoja">Hoja de vida</router-link>|
+
+
   </nav>
   <router-view/>
 </template>

@@ -10,6 +10,7 @@ export default {
   name: 'HojaView',
   components: {
     Hoja
+
   }
 }
 </script>
